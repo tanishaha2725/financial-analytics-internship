@@ -17,7 +17,7 @@ Global Superstore (Kaggle, `apoorvaappz/global-super-store-dataset`):
 ## Progress
 - [x] Week 1: Data collection and preprocessing
 - [x] Week 2: Exploratory data analysis and visualisation
-- [ ] Week 3: KPI development and profitability analysis
+- [x] Week 3: KPI development and profitability analysis
 - [ ] Week 4: Interactive dashboard (Power BI / Tableau)
 - [ ] Week 5: SQL analytics
 - [ ] Week 6: Advanced NumPy, Pandas and visualisation
@@ -35,6 +35,12 @@ Global Superstore (Kaggle, `apoorvaappz/global-super-store-dataset`):
 - Furniture (especially Tables) is loss-making; Technology is the most profitable category.
 - Southeast Asia, EMEA and South are loss-making regions.
 - Same Day and First Class shipping cost about twice as much, relative to sales, as Standard Class.
+
+## Week 3 key findings
+- 10 KPIs developed: revenue 12.64M, gross margin 11.6%, net margin 0.91%, revenue CAGR 23.9%, average order value 505.
+- Discounts above 20% cover 22% of order lines and lose about 1.02M; all other lines earn a 10.6% margin.
+- Tables, Chairs, Machines and Storage lose about 200K together; Copiers generate 86% of net profit.
+- LATAM and EMEA are loss-making markets; 1,435 anomaly lines (2.8%) were detected.
 
 ## Tools
 Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, Git.
