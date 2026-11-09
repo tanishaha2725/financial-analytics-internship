@@ -1,0 +1,11 @@
+KPI,Value,Definition
+Total Revenue,12642501.909880001,Sum of Sales
+Total Expenses,12527865.3086,Cost + Shipping Cost
+Gross Profit,1467457.29128,Sum of Profit (before shipping)
+Net Profit,114636.60127999999,Gross Profit - Shipping Cost
+Gross Margin %,11.607332960995603,Gross Profit / Revenue
+Net Profit Margin %,0.9067556572043112,Net Profit / Revenue
+Revenue Growth Rate (CAGR 2011-2014) %,23.92264290185402,Compound annual growth of yearly revenue
+Average Transaction (Order) Value,504.9930860746955,Revenue / number of orders
+Cost-to-Revenue Ratio %,88.3926670390044,Cost / Revenue
+Loss-making Order Lines %,41.236108403197505,Share of lines with Net Profit < 0
